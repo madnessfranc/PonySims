@@ -1,0 +1,26 @@
+c:\users\2230639\documents\visual studio 2010\Projects\PonySims\PonySims\PonySims\bin\x86\Debug\PonySims.exe
+c:\users\2230639\documents\visual studio 2010\Projects\PonySims\PonySims\PonySims\bin\x86\Debug\PonySims.pdb
+c:\users\2230639\documents\visual studio 2010\Projects\PonySims\PonySims\PonySims\obj\x86\Debug\PonySims.csprojResolveAssemblyReference.cache
+c:\users\2230639\documents\visual studio 2010\Projects\PonySims\PonySims\PonySims\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\2230639\documents\visual studio 2010\Projects\PonySims\PonySims\PonySims\obj\x86\Debug\PonySims.exe
+c:\users\2230639\documents\visual studio 2010\Projects\PonySims\PonySims\PonySims\obj\x86\Debug\PonySims.pdb
+c:\users\2230639\documents\visual studio 2010\Projects\PonySims\PonySims\PonySims\bin\x86\Debug\Content\grass.xnb
+c:\users\2230639\documents\visual studio 2010\Projects\PonySims\PonySims\PonySims\bin\x86\Debug\Content\MouseCoor.xnb
+C:\Users\2230639\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\bin\x86\Debug\Content\grass.xnb
+C:\Users\2230639\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\bin\x86\Debug\Content\MouseCoor.xnb
+C:\Users\2230639\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\bin\x86\Debug\PonySims.exe
+C:\Users\2230639\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\bin\x86\Debug\PonySims.pdb
+C:\Users\2230639\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\obj\x86\Debug\PonySims.csprojResolveAssemblyReference.cache
+C:\Users\2230639\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\2230639\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\obj\x86\Debug\PonySims.exe
+C:\Users\2230639\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\obj\x86\Debug\PonySims.pdb
+C:\Users\Francis\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\bin\x86\Debug\Content\grass.xnb
+C:\Users\Francis\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\bin\x86\Debug\Content\MouseCoor.xnb
+C:\Users\Francis\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\bin\x86\Debug\PonySims.exe
+C:\Users\Francis\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\bin\x86\Debug\PonySims.pdb
+C:\Users\Francis\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\obj\x86\Debug\PonySims.csprojResolveAssemblyReference.cache
+C:\Users\Francis\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Francis\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\obj\x86\Debug\PonySims.exe
+C:\Users\Francis\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\obj\x86\Debug\PonySims.pdb
+C:\Users\Francis\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\bin\x86\Debug\Content\testst.xnb
+C:\Users\2230639\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySims\bin\x86\Debug\Content\testst.xnb

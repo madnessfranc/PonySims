@@ -1,0 +1,3 @@
+c:\users\2230639\documents\visual studio 2010\Projects\PonySims\PonySims\PonySimsContent\obj\x86\Debug\PonySimsContent.contentprojResolveAssemblyReference.cache
+C:\Users\2230639\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySimsContent\obj\x86\Debug\PonySimsContent.contentprojResolveAssemblyReference.cache
+C:\Users\Francis\Desktop\Dropbox\Travail perso\Projet\PonySims\PonySims\PonySimsContent\obj\x86\Debug\PonySimsContent.contentprojResolveAssemblyReference.cache
